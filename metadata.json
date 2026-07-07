@@ -1,0 +1,6 @@
+{
+  "name": "Finanku UMKM Enterprise",
+  "description": "Sistem manajemen keuangan modern untuk UMKM, mencakup pencatatan kas harian, pembuatan faktur invoice, laporan laba rugi otomatis, dan asisten analisis finansial pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
